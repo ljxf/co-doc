@@ -1,6 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/ljxf/asset/blob/master/co-doc/1.jpg" alt="萌萌哒" title="萌萌哒">
-  <!-- https://github.com/ljxf/asset/blob/master/co-doc/1.jpg -->
+  <img src="https://github.com/ljxf/asset/blob/master/co-doc/1.jpg" alt="萌萌哒" title="萌萌哒" style="width: 600px">
 </p>
 
 # co-doc
